@@ -1,5 +1,4 @@
 function initMap() {
-	// add your code here
 	L.mapquest.key = 'M04CaS4kAg7xUbqywhIeReLzUpCNBT3c';
 
 	// 'map' refers to a <div> element with the ID map

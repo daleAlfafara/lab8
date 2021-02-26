@@ -41,7 +41,7 @@ function initRSVPForm() {
     })
 
 		function postCallback(res){
-			alert("RSVP form successfully submitted!")
-			$('#rsvpEmail').val('')
+				alert("RSVP form successfully submitted!")
+				$('#rsvpEmail').val('')
 		}
 }
